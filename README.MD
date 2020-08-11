@@ -7,23 +7,24 @@ What the scanner is capable of?
 3. Domain to IP conversion
 
 Dependencies:
-Python3
 
-pyfiglet
+[+]  Python3
 
-termcolor
+[+]  pyfiglet
 
-socket
+[+]  termcolor
 
-optparse
+[+]  socket
 
-threading
+[+]  optparse
 
-datetime
+[+]  threading
 
-os
+[+]  datetime
 
-platform
+[+]  os
+
+[+]  platform
 
 #In case of any dependency error use python3 -m pip install packagename
 For Example:
