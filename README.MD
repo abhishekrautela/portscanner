@@ -8,13 +8,21 @@ What the scanner is capable of?
 
 Dependencies:
 Python3
+
 pyfiglet
+
 termcolor
+
 socket
+
 optparse
+
 threading
+
 datetime
+
 os
+
 platform
 
 #In case of any dependency error use python3 -m pip install packagename
